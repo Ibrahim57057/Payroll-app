@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import { ThemeProvider } from "./context/ThemeContext";
 import Login from "./components/auth/Login";
 import Dashboard from "./components/dashboard/Dashboard";
-import Staff from "./components/staff/Staff";
+import Staff from "./components/staff/staff";
 import SalaryStructure from "./components/salary/SalaryStructure";
 import Deductions from "./components/deductions/Deductions";
 import Payroll from "./components/payroll/Payroll";
